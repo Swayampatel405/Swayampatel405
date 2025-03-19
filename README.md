@@ -27,6 +27,11 @@
 
 ---
 
+## 📊 **GitHub Stats**  
+![Swayam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swayampatel405&show_icons=true&theme=radical)  
+
+---
+
 ## 📌 **Pinned Projects**  
 ### 🔥 **StockEase - Inventory Management App**  
 📌 **Tech Stack:** Kotlin, Jetpack Compose, Firebase  
