@@ -61,7 +61,7 @@
 ---
 
 💬 **Let’s Connect & Build Something Amazing!**  
-📧 [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)  
+📧 [Email](mailto:swyampatel405@gmail.com) | [LinkedIn](www.linkedin.com/in/swayam-patel-89220424b)   
 
 
 <!---
