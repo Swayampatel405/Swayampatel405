@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 **About Me**  
-- 🎓 **3rd Year Computer Engineering Student** at LDRP-ITR, Gandhinagar  
+- 🎓 **Final Year Computer Engineering Student** at LDRP-ITR, Gandhinagar  
 - 💼 Actively working on innovative Android projects  
 - 🌍 Love contributing to open-source & solving real-world problems  
 - 🔍 Open to Android Development internships & collaborations  
