@@ -33,10 +33,10 @@
 ---
 
 ## 📌 **Pinned Projects**  
-### 🔥 **StockEase - Inventory Management App**  
+### 🔥 **Shopping App**  
 📌 **Tech Stack:** Kotlin, Jetpack Compose, Firebase  
-🛒 **Features:** Stock tracking, sales history, role-based authentication  
-🔗 [GitHub Repo](https://github.com/Swayampatel405/StockEase.git)  
+🛒 **Features:** Categories, Buy products 
+🔗 [GitHub Repo](https://github.com/Swayampatel405/Shoppingapp.git)  
 
 ### 🎓 **Quiz App**  
 📌 **Tech Stack:** Kotlin, Jetpack Compose, Dagger Hilt, Retrofit  
